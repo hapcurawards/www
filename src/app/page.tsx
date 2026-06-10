@@ -161,9 +161,9 @@ function Navigation({ language, setLanguage }: { language: "nl" | "en"; setLangu
 
             {/* Email Icon Only */}
             <a
-              href="mailto:hc.awards@gmail.com"
+              href="mailto:hapcur.awards@gmail.com"
               className="text-foreground/80 hover:text-gold transition-colors duration-300"
-              title="hc.awards@gmail.com"
+              title="hapcur.awards@gmail.com"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
@@ -585,7 +585,7 @@ function ContactSection({ language }: { language: "nl" | "en" }) {
             href="mailto:hapcur.awards@gmail.com"
             className="font-display text-3xl sm:text-4xl md:text-5xl text-gold hover:text-white transition-colors duration-300 tracking-wide inline-block"
           >
-            hc.awards@gmail.com
+            hapcur.awards@gmail.com
           </a>
         </div>
       </div>
@@ -604,8 +604,8 @@ function Footer({ language }: { language: "nl" | "en" }) {
           </div>
 
           <div className="flex items-center space-x-8">
-            <a href="mailto:hc.awards@gmail.com" className="font-body text-sm text-foreground/60 hover:text-gold transition-colors">
-              hc.awards@gmail.com
+            <a href="mailto:hapcur.awards@gmail.com" className="font-body text-sm text-foreground/60 hover:text-gold transition-colors">
+              hapcur.awards@gmail.com
             </a>
           </div>
 
