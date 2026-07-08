@@ -31,6 +31,8 @@ const AWARD_CARDS = [
     description: "Custom hout en acryl award met geïntegreerde LED-verlichting voor de organisatoren van het Nederlands kampioenschap human beatbox.",
     images: [
       "/img/award01.jpeg",
+      "/img/award01.jpeg",
+      "/img/award01.jpeg",
     ],
   },
   {
