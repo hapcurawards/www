@@ -436,7 +436,7 @@ function PreviousWorkSection({ language }: { language: "nl" | "en" }) {
             {/* Card Content */}
             <div className="p-8">
               <h3 className="font-display text-2xl text-gold mb-3">{card.client.toUpperCase()}</h3>
-              <p className="font-body text-foreground/70 text-sm leading-relaxed">{card.description}</p>
+              <p className="font-body text-foreground/70 text-sm leading-relaxed">{language === "nl" ? card.descriptionNL : card.descriptionEN}</p>
             </div>
           </div>
 
