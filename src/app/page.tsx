@@ -412,7 +412,7 @@ function PreviousWorkSection({ language }: { language: "nl" | "en" }) {
           {/* Card */}
           <div className="w-full max-w-2xl bg-black/50 backdrop-blur-sm border border-gold/20 overflow-hidden">
             {/* Image Container */}
-            <div className="relative aspect-[4/3] overflow-hidden">
+            <div className="relative aspect-square overflow-hidden">
               <Image
                 src={card.images[currentImage]}
                 alt={card.client}
