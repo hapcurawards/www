@@ -315,7 +315,7 @@ function AboutSection({ language }: { language: "nl" | "en" }) {
       paragraphs: [
         "Happy Currents has been an established name in custom electronics and laser work for years. Now we're expanding our expertise into the world of custom awards and trophies – where craftsmanship, creativity, and innovation come together.",
         "Our awards are crafted from the most diverse materials: wood, acrylic, metal, glass – and much more. Nothing is too outlandish. Whether you want a trophy shaped like your logo, an abstract sculpture, or something completely unique – we make it reality.",
-        "With an eye on the future, we breathe new life into existing raw materials, making a conscious choice to use sustainable and recycled elements as much as possible."
+        "With an eye on the future, we breathe new life into existing raw materials, making a conscious choice to use sustainable and recycled elements as much as possible.",
         "What sets us apart is our technical background. Want LED lighting in your award? Moving parts? Interactive elements? No problem. We seamlessly integrate electrical systems into our designs, making your award not just a prize, but a true experience.",
         "Our audience is diverse: from sports tournaments and music competitions to dance battles and corporate events. Or perhaps you're looking for a unique gift for your best employee? At Happy Currents, everything is custom-made and practically anything is achievable.",
       ],
