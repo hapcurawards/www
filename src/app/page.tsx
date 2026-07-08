@@ -36,7 +36,7 @@ const AWARD_CARDS = [
   },
   {
     id: 2,
-    client: "Ribendeel Dance Award",
+    client: "Koredale Dance Award",
     descriptionNL: "Speciale dans award voor een kinder dansbattle. Dergelijke awards zijn met en zonder licht of bewegende onderdelen leverbaar.",
     descriptionEN: "Special dance award for the winner of a dance battle for children. These awards can be delivered with or without LED lights and moving components",
     images: [
