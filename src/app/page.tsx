@@ -37,32 +37,26 @@ const AWARD_CARDS = [
   },
   {
     id: 2,
-    client: "Philharmonisch Orkest Utrecht",
-    description: "Elegante glazen sculpturen met gegraveerde muzieknoten voor de jaarlijkse muziekprijzen.",
+    client: "Ribendeel Dans Award",
+    description: "Speciale dans award voor een kinder dansbattle.",
     images: [
-      "https://images.squarespace-cdn.com/content/v1/50f60d11e4b01990ba081956/1718813311220-17C3MLS26NEDVX0BM7AR/custom+modern+awards+for+lacework+-+Andrew+Watson+Design.jpg",
-      "https://glendoratrophy.com/wp-content/uploads/2017/04/Modern_Acrylic_Award-1.jpg",
-      "https://i.etsystatic.com/25614909/r/il/79c797/4649151931/il_570xN.4649151931_63yn.jpg",
+      "/img/award02.jpeg",
     ],
   },
   {
     id: 3,
-    client: "TechStart Innovation Awards",
-    description: "Futuristische metalen trofeeën met bewegende delen en LED-strips voor tech startup competitie.",
+    client: "Ribendekker Allround",
+    description: "3D Geprinte Award in verschillende kleuren n.a.v. verzoeken van de client.",
     images: [
-      "https://i.etsystatic.com/25614909/r/il/ff4958/4600909040/il_570xN.4600909040_dhgd.jpg",
-      "https://i.etsystatic.com/25614909/r/il/06740c/4649121597/il_570xN.4649121597_m10m.jpg",
-      "https://glendoratrophy.com/wp-content/uploads/2017/04/Modern_Acrylic_Award-1.jpg",
+      "/img/award03.jpeg",
     ],
   },
   {
     id: 4,
-    client: "Nationale Schaakkampioenschappen",
-    description: "Houten awards met handgesneden schaakstukken en messing accenten.",
+    client: "Cardboard Mirror Award",
+    description: "Een award gemaakt van verhard karton, spiegels en een gegrafeerd logo.",
     images: [
-      "https://i.etsystatic.com/25614909/r/il/3b299e/4661604419/il_570xN.4661604419_t263.jpg",
-      "https://i.etsystatic.com/25614909/r/il/79c797/4649151931/il_570xN.4649151931_63yn.jpg",
-      "https://i.etsystatic.com/25614909/r/il/ff4958/4600909040/il_570xN.4600909040_dhgd.jpg",
+      "/img/award04.jpeg",
     ],
   },
 ];
