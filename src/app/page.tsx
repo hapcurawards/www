@@ -27,12 +27,10 @@ const SLIDESHOW_IMAGES = [
 const AWARD_CARDS = [
   {
     id: 1,
-    client: "Rotterdam Urban Dance Battle",
-    description: "Custom acryl awards met geïntegreerde LED-verlichting voor de jaarlijkse urban dance competitie.",
+    client: "Dutch Beatbox Champions League 2026",
+    description: "Custom hout en acryl award met geïntegreerde LED-verlichting voor de organisatoren van het Nederlands kampioenschap human beatbox.",
     images: [
-      "https://i.etsystatic.com/25614909/r/il/06740c/4649121597/il_570xN.4649121597_m10m.jpg",
-      "https://i.etsystatic.com/25614909/r/il/ff4958/4600909040/il_570xN.4600909040_dhgd.jpg",
-      "https://i.etsystatic.com/25614909/r/il/3b299e/4661604419/il_570xN.4661604419_t263.jpg",
+      "/img/award01.jpeg",
     ],
   },
   {
