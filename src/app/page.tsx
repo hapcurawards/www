@@ -28,17 +28,17 @@ const AWARD_CARDS = [
   {
     id: 1,
     client: "Dutch Beatbox Champions League 2026",
-    description: "Custom hout en acryl award met geïntegreerde LED-verlichting voor de organisatoren van het Nederlands kampioenschap human beatbox.",
+    descriptionNL: "Custom hout en acryl award met geïntegreerde LED-verlichting en spiegels. Gemaakt voor de organisatoren van het Nederlands kampioenschap human beatbox.",
+    descriptionEN: "Custom wood and acryl award with integraded LED lights and mirrors. Made for the organizers of the Dutch human beatbox championship.",
     images: [
-      "/img/award01.jpeg",
-      "/img/award01.jpeg",
       "/img/award01.jpeg",
     ],
   },
   {
     id: 2,
-    client: "Ribendeel Dans Award",
-    description: "Speciale dans award voor een kinder dansbattle.",
+    client: "Ribendeel Dance Award",
+    descriptionNL: "Speciale dans award voor een kinder dansbattle. Dergelijke awards zijn met en zonder licht of bewegende onderdelen leverbaar.",
+    descriptionEN: "Special dance award for the winner of a dance battle for children. These awards can be delivered with or without LED lights and moving components",
     images: [
       "/img/award02.jpeg",
     ],
@@ -46,15 +46,17 @@ const AWARD_CARDS = [
   {
     id: 3,
     client: "Ribendekker Allround",
-    description: "3D Geprinte Award in verschillende kleuren n.a.v. verzoeken van de client.",
+    descriptionNL: "3D geprinte award in verschillende kleuren n.a.v. verzoeken van de client. LED licht is ook mogelijk.",
+    descriptionEN: "3D printed award in multiple colors as requisted by the client. LED ;ights are also possible.",
     images: [
       "/img/award03.jpeg",
     ],
   },
   {
     id: 4,
-    client: "Cardboard Mirror Award",
-    description: "Een award gemaakt van verhard karton, spiegels en een gegrafeerd logo.",
+    client: "Durable Award",
+    descriptionNL: "We specialiseren in het maken van duurzame awards door zoveel mogelijk te recycelen. Bovenstaande award gemaakt van verhard karton, spiegels en een gegrafeerd logo.",
+    description: "We specialize in making durable awards by recycling as much as we can. The award shown above is made of hardened cardboard, mirrors and an engraved logo.",
     images: [
       "/img/award04.jpeg",
     ],
@@ -301,6 +303,7 @@ function AboutSection({ language }: { language: "nl" | "en" }) {
       paragraphs: [
         "Happy Currents is al jarenlang een gevestigde naam in maatwerk elektronica en laserwerk. Nu breiden we onze expertise uit naar de wereld van custom awards en trofeeën – waar vakmanschap, creativiteit en innovatie samenkomen.",
         "Onze awards worden vervaardigd uit de meest uiteenlopende materialen: hout, acryl, metaal, glas – en nog veel meer. Niets is te gek. Of je nu een trofee wilt in de vorm van je logo, een abstracte sculptuur, of iets compleet unieks – wij maken het werkelijkheid.",
+        "Met oog voor morgen blazen we nieuw leven in bestaande grondstoffen en kiezen we bewust zoveel mogelijk voor duurzame, gerecyclede materialen.",
         "Wat ons onderscheidt is onze technische achtergrond. Wil je LED-verlichting in je award? Bewegende onderdelen? Interactieve elementen? Geen probleem. We integreren elektrische systemen naadloos in onze ontwerpen, waardoor je award niet alleen een prijs is, maar een echte beleving.",
         "Onze doelgroep is divers: van sporttournooien en muziekcompetities tot dance battles en bedrijfsevenementen. Of misschien zoek je een uniek geschenk voor je beste werknemer? Bij Happy Currents is alles maatwerk en praktisch alles is te verwezenlijken.",
       ],
@@ -312,6 +315,7 @@ function AboutSection({ language }: { language: "nl" | "en" }) {
       paragraphs: [
         "Happy Currents has been an established name in custom electronics and laser work for years. Now we're expanding our expertise into the world of custom awards and trophies – where craftsmanship, creativity, and innovation come together.",
         "Our awards are crafted from the most diverse materials: wood, acrylic, metal, glass – and much more. Nothing is too outlandish. Whether you want a trophy shaped like your logo, an abstract sculpture, or something completely unique – we make it reality.",
+        "With an eye on the future, we breathe new life into existing raw materials, making a conscious choice to use sustainable and recycled elements as much as possible."
         "What sets us apart is our technical background. Want LED lighting in your award? Moving parts? Interactive elements? No problem. We seamlessly integrate electrical systems into our designs, making your award not just a prize, but a true experience.",
         "Our audience is diverse: from sports tournaments and music competitions to dance battles and corporate events. Or perhaps you're looking for a unique gift for your best employee? At Happy Currents, everything is custom-made and practically anything is achievable.",
       ],
