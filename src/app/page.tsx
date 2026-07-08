@@ -12,7 +12,7 @@ const SLIDESHOW_IMAGES = [
     alt: "Luxe custom award op display",
   },
   {
-    src: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&q=80",
+    src: "/img/bg01.png",
     alt: "Ambachtelijke trofee creatie",
   },
   {
