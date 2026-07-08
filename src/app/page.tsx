@@ -56,7 +56,7 @@ const AWARD_CARDS = [
     id: 4,
     client: "Durable Award",
     descriptionNL: "We specialiseren in het maken van duurzame awards door zoveel mogelijk te recycelen. Bovenstaande award gemaakt van verhard karton, spiegels en een gegrafeerd logo.",
-    description: "We specialize in making durable awards by recycling as much as we can. The award shown above is made of hardened cardboard, mirrors and an engraved logo.",
+    descriptionEN: "We specialize in making durable awards by recycling as much as we can. The award shown above is made of hardened cardboard, mirrors and an engraved logo.",
     images: [
       "/img/award04.jpeg",
     ],
@@ -92,8 +92,8 @@ const PROCESS_STEPS = [
     number: "04",
     titleNL: "PRODUCTIE",
     titleEN: "PRODUCTION",
-    descriptionNL: "Na goedkeuring van het ontwerp wordt de award vakkundig vervaardigd in ons atelier.",
-    descriptionEN: "After design approval, the award is expertly crafted in our workshop.",
+    descriptionNL: "Na goedkeuring van het ontwerp wordt de award vakkundig vervaardigd in ons atelier. We houden u zorgvuldig op de hoogte van het proces.",
+    descriptionEN: "After design approval, the award is expertly crafted in our workshop. We'll keep you updated about the process.",
   },
   {
     number: "05",
